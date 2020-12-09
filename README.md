@@ -9,8 +9,8 @@ If you saw anything in Limerick Quest that you'd like to use in your own work, f
 
 # How To Use
 
-Download the Twine Archive HTML file from this repository.
-Open Twine. https://twinery.org/
-Choose "Import from File".
-Select the file your just downloaded.
-Limerick Quest will now appear in your list of stories!
+* Download the Twine Archive HTML file from this repository.
+* Open Twine. (If you don't have Twine, download it from https://twinery.org/)
+* Choose "Import from File".
+* Select the file your just downloaded.
+* Limerick Quest will now appear in your list of stories!
