@@ -14,3 +14,7 @@ If you saw anything in Limerick Quest that you'd like to use in your own work, f
 * Choose "Import from File".
 * Select the file your just downloaded.
 * Limerick Quest will now appear in your list of stories!
+
+# Playable Version
+
+http://pacesmith.itch.io/limerick-quest
